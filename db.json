@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "firstname": "Minh1",
+      "lastname": "Vinh",
+      "fullname": "Bao Minh",
+      "phone": "0909",
+      "email": "minh@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "Thanh",
+      "lastname": "Nguyen",
+      "fullname": "nguyen thanh",
+      "phone": "07889",
+      "email": "th2509@gmail.com",
+      "id": 3
+    },
+    {
+      "firstname": "Thuy",
+      "lastname": "Nguyen",
+      "fullname": "thanh thuy",
+      "phone": "345678",
+      "email": "thuy@gmail.com",
+      "id": 4
+    },
+    {
+      "firstname": "Thi",
+      "lastname": "Nguyen",
+      "fullname": "Nguyen Thi   ",
+      "phone": "23456654",
+      "email": "dn922499@gmail.com",
+      "id": 5
+    },
+    {
+      "firstname": "11111",
+      "lastname": "zzz",
+      "fullname": "zzz",
+      "phone": "0947007932",
+      "email": "fvregf@gmail.com",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
